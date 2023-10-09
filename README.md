@@ -31,6 +31,3 @@ Exercise 9 focuses on building a stacking ensemble. We first run the individual 
 5. Feed the predictions to the blender to obtain the ensemble's predictions.
 6. Evaluate the stacking ensemble's performance on the test set and compare it to the voting classifier from Exercise 8.
 
-## Conclusion
-
-This repository contains the code and results for these two exercises. It demonstrates the power of ensemble learning techniques, including voting classifiers and stacking, in improving classification performance on the MNIST dataset. You can explore the code and experiment with different classifier combinations to gain a better understanding of ensemble learning in practice.
